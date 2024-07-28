@@ -1,4 +1,4 @@
-## Hi there, I'm Aanchal Pahuja 👋 <br/> <a href="https://www.linkedin.com/in/aanchal-pahuja-587a0b250/">LinkedIn</a>
+## Hi there, I'm Aanchal Pahuja 👋 <br/> <a href="https://www.linkedin.com/in/aanchal-pahuja-587a0b250/"><u>LinkedIn</u></a>
 <!--
 **aanchalpahuja18/aanchalpahuja18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
