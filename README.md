@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 - 📫 How to reach me: aanchalpahuja34@gmail.com
-- <a href="https://www.linkedin.com/in/aanchal-pahuja-587a0b250/"><u>LinkedIn</u></a>
-- <a href="https://x.com/AanchalPah3780"><u>X</u></a>
+- LinkedIn: <a href="https://www.linkedin.com/in/aanchal-pahuja-587a0b250/"><u>LinkedIn</u></a>
+- X: <a href="https://x.com/AanchalPah3780"><u>X</u></a>
 <!--- 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 -->
