@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 
 ## Skills: 
 - Frontend: HTML, CSS, JS, React, Redux Toolkit
-- Backend: Node, Express, Mongo DB
+- Backend: Node, Express
+- Database: Mongo DB
 - Tools: VS Code, Visual Studio, Postman
 <!--- 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
