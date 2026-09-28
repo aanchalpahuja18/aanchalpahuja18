@@ -1,7 +1,6 @@
 ## Hi there, I'm Aanchal Pahuja 👋
 <!--
 **aanchalpahuja18/aanchalpahuja18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 -->
 - 🔭 I’m a software engineer graduated in 2025.
