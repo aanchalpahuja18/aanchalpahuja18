@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - X: <a href="https://x.com/AanchalPah3780"><u>X</u></a>
 
 ## Skills: 
-- Frontend: HTML, CSS, JS, React, Redux Toolkit
+- Frontend: HTML, CSS, JS, Tailwind, React, Redux Toolkit,
 - Backend: Node, Express
 - Database: Mongo DB
 - Tools: VS Code, Visual Studio, Postman
